@@ -1,0 +1,2 @@
+# Neutral Milk Hotel Tribute Page
+Hi, this is my solution to one of freeCodeCamp's responsive web design challenge, where I have to create a tribute page with numerous run tests. I left the paragraph with some lorem ipsum placeholder because I was too lazy to write an original text. I might add them later when I'm bored. Keep grinding my friends!
